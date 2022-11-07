@@ -3,9 +3,6 @@
 
 import readline
 import os
-import time
-import datetime
-import json
 
 # ===============================================
 def prefilledInput(prompt, prefill=''):
