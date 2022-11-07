@@ -9,7 +9,7 @@ import re
 
 import generalFuncs as gnrl
 import liststringsGeneral as aclst
-import scrapercommon as scraperCommon
+import scraperCommonPY as scraperCommon
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
